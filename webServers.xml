@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="53eb90e6-fe85-4672-a7f0-6ea8aeed7ce1" name="hl_dev" url="http://hotline.lobachev.dev/">
+        <fileTransfer host="192.168.101.235" port="22" accessType="SFTP" username="lobachev" password="dffedfcfdfcddffedfc5dfccdfdfdfccdfcfdfc9dfcbdfc6dfebdfdcdf9f">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
