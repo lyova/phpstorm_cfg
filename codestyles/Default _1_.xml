@@ -22,4 +22,10 @@
     <option name="BRACE_STYLE" value="2" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
   </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
