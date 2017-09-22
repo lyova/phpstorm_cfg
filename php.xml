@@ -7,14 +7,14 @@
       <interpreter home="sftp://lobachev@192.168.101.235:22/usr/bin/php7.1" id="7bac236f-d50f-4be4-8ec1-56e26fae43c8" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
         <remote_data WEB_SERVER_CONFIG_ID="53eb90e6-fe85-4672-a7f0-6ea8aeed7ce1" WEB_SERVER_CONFIG_NAME="hl_dev" WEB_SERVER_CREDENTIALS_ID="sftp://lobachev@192.168.101.235:22" INTERPRETER_PATH="/usr/bin/php7.1" HELPERS_PATH="/home/lobachev/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="/usr/bin/php" id="a8e4474e-72ee-4e54-8921-a737c6994a2e" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter home="\usr\bin\php" id="a8e4474e-72ee-4e54-8921-a737c6994a2e" name="PHP 7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/lib64/php5.6/bin/php-cgi" php_cli="/usr/lib64/php5.6/bin/php" path_separator=":" remote_host="192.168.100.83" version="5.6.13-pl0-gentoo">
-          <additional_php_ini>/etc/php/cli-php5.6/ext-active/extensions.ini, /etc/php/cli-php5.6/ext-active/mongodb.ini, /etc/php/cli-php5.6/ext-active/ssh2.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/lib64/php5.6/bin/php-cgi" php_cli="/usr/lib64/php5.6/bin/php" path_separator=":" remote_host="192.168.100.42" version="5.6.13-pl0-gentoo">
+          <additional_php_ini>/etc/php/cli-php5.6/ext-active/apcu.ini, /etc/php/cli-php5.6/ext-active/extensions.ini, /etc/php/cli-php5.6/ext-active/imagick.ini, /etc/php/cli-php5.6/ext-active/mongodb.ini, /etc/php/cli-php5.6/ext-active/ssh2.ini</additional_php_ini>
           <configuration_file>/etc/php/cli-php5.6/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -102,6 +102,7 @@
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="imagick.locale_fix" value="0" />
             <configuration_option name="imagick.progress_monitor" value="0" />
+            <configuration_option name="imagick.skip_version_check" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value=".:/usr/share/php5:/usr/share/php" />
             <configuration_option name="input_encoding" value="" />
