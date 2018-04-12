@@ -9,7 +9,6 @@
       <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
