@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
