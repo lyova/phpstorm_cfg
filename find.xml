@@ -18,6 +18,11 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.js.</mask>
+      <mask>*.js.t</mask>
+      <mask>*.js.tw</mask>
+      <mask>*.js.twi</mask>
+      <mask>*.js.twig</mask>
     </recentFileMasks>
   </component>
 </application>
