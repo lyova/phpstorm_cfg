@@ -6,6 +6,10 @@
           <option name="url" value="wwwadm@77.222.150.22:/server/htdocs/hotline/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="lobachev@192.168.100.4:hotline/www" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lobachev\PhpstormProjects" />
