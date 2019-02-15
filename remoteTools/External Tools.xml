@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="git fetch origin (dev 1)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="53eb90e6-fe85-4672-a7f0-6ea8aeed7ce1">
+  <tool name="git pull origin (dev 1)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="53eb90e6-fe85-4672-a7f0-6ea8aeed7ce1">
     <exec>
       <option name="COMMAND" value="/usr/bin/git" />
-      <option name="PARAMETERS" value="fetch origin" />
+      <option name="PARAMETERS" value="pull origin" />
       <option name="WORKING_DIRECTORY" value="/home/lobachev/hotline/www" />
     </exec>
   </tool>
