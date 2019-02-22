@@ -2,7 +2,7 @@
   <tool name="git reset origin" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="git" />
-      <option name="PARAMETERS" value="reset --hard origin/$(git branch | sed -n -e 's/^\* \(.*\)/\1/p')" />
+      <option name="PARAMETERS" value="reset --hard dev-local/master" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/PhpstormProjects/hl_dev_1" />
     </exec>
   </tool>
