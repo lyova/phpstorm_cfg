@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="git" />
       <option name="PARAMETERS" value="reset --hard dev-local/master" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PhpstormProjects/hl_dev_1" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/lobachev/PhpstormProjects/hl_dev_1" />
     </exec>
   </tool>
 </toolSet>
