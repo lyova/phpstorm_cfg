@@ -8,6 +8,7 @@
       <mapping pattern="opened_open" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
+      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
