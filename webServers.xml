@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="249c44de-ba97-49d2-89d0-92bd50745328" name="web1" url="http://web1.hotline.ua:8080">
+        <fileTransfer host="web1.hotline.ua" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="53eb90e6-fe85-4672-a7f0-6ea8aeed7ce1" name="hl_dev" url="https://hotline.lobachev.test/">
         <fileTransfer host="192.168.100.4" port="22" accessType="SFTP" username="lobachev" password="dffedfcfdfcddffedfc5dfccdfdfdfccdfcfdfc9dfcbdfc6dfebdfdcdf9f">
           <advancedOptions>
