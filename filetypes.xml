@@ -2,20 +2,25 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
-      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="opened_open" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="opened_open" type="PLAIN_TEXT" />
+      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="list" type="SmartyConfig" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping pattern="default.conf" type="nginx file type" />
+      <removed_mapping pattern=".conf" approved="true" type="nginx file type" />
       <removed_mapping ext="list" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
