@@ -1,11 +1,12 @@
 <code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
