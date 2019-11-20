@@ -2,15 +2,20 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
   </component>
+  <component name="PhpCSFixer">
+    <phpcsfixer_settings>
+      <phpcs_fixer_by_interpreter interpreter_id="7bac236f-d50f-4be4-8ec1-56e26fae43c8" tool_path="/home/lobachev/php-cs-fixer-v2.phar" />
+    </phpcsfixer_settings>
+  </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="sftp://lobachev@192.168.101.235:22/bin/php" id="7bac236f-d50f-4be4-8ec1-56e26fae43c8" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="53eb90e6-fe85-4672-a7f0-6ea8aeed7ce1" WEB_SERVER_CONFIG_NAME="hl_dev" WEB_SERVER_CREDENTIALS_ID="sftp://lobachev@192.168.101.235:22" INTERPRETER_PATH="/bin/php" HELPERS_PATH="/home/lobachev/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter id="7bac236f-d50f-4be4-8ec1-56e26fae43c8" name="Remote PHP 7" home="sftp://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data WEB_SERVER_CONFIG_ID="53eb90e6-fe85-4672-a7f0-6ea8aeed7ce1" WEB_SERVER_CONFIG_NAME="hl_dev" WEB_SERVER_CREDENTIALS_ID="sftp://lobachev@192.168.101.235:22" INTERPRETER_PATH="/bin/php" HELPERS_PATH="/home/lobachev/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
-      <interpreter home="\usr\bin\php" id="a8e4474e-72ee-4e54-8921-a737c6994a2e" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter id="a8e4474e-72ee-4e54-8921-a737c6994a2e" name="PHP 7" home="\usr\bin\php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
