@@ -13,4 +13,21 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
+    <option name="autoAliasTable" value="true" />
+    <option name="customMappings">
+      <map>
+        <entry key="ITCWeb.people" value="p" />
+        <entry key="new_tabl" value="t" />
+        <entry key="sales" value="sl" />
+        <entry key="yp" value="y" />
+      </map>
+    </option>
+    <CUSTOM_ALIAS_MAPPINGS>
+      <entry table-name="ITCWeb.people" value="p" />
+      <entry table-name="new_tabl" value="t" />
+      <entry table-name="sales" value="sl" />
+      <entry table-name="yp" value="y" />
+    </CUSTOM_ALIAS_MAPPINGS>
+  </component>
 </application>
