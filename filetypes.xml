@@ -7,6 +7,7 @@
       <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
+      <mapping pattern="comment" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping pattern="opened_open" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
