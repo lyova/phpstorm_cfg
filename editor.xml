@@ -1,4 +1,18 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="IS_DND_ENABLED" value="false" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
     <option name="customMappings">
