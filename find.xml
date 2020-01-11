@@ -16,5 +16,6 @@
     <mask>*index.tpl</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>

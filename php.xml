@@ -1,14 +1,8 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpCSFixer">
     <phpcsfixer_settings>
       <phpcs_fixer_by_interpreter interpreter_id="7bac236f-d50f-4be4-8ec1-56e26fae43c8" tool_path="/home/lobachev/php-cs-fixer-v2.phar" />
     </phpcsfixer_settings>
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
@@ -21,7 +15,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="192.168.100.143" version="7.2.16">
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php" path_separator=":" remote_host="192.168.101.105" version="7.2.16">
           <additional_php_ini>/etc/php.d/apcu.ini, /etc/php.d/bcmath.ini, /etc/php.d/bz2.ini, /etc/php.d/calendar.ini, /etc/php.d/ctype.ini, /etc/php.d/curl.ini, /etc/php.d/dba.ini, /etc/php.d/dom.ini, /etc/php.d/enchant.ini, /etc/php.d/exif.ini, /etc/php.d/fileinfo.ini, /etc/php.d/ftp.ini, /etc/php.d/gd.ini, /etc/php.d/geoip.ini, /etc/php.d/gettext.ini, /etc/php.d/gmp.ini, /etc/php.d/iconv.ini, /etc/php.d/igbinary.ini, /etc/php.d/imagick.ini, /etc/php.d/imap.ini, /etc/php.d/interbase.ini, /etc/php.d/intl.ini, /etc/php.d/json.ini, /etc/php.d/ldap.ini, /etc/php.d/mbstring.ini, /etc/php.d/memcache.ini, /etc/php.d/mongodb.ini, /etc/php.d/mysqlnd.ini, /etc/php.d/mysqlnd_mysqli.ini, /etc/php.d/odbc.ini, /etc/php.d/opcache.ini, /etc/php.d/pdo.ini, /etc/php.d/pdo_firebird.ini, /etc/php.d/pdo_mysqlnd.ini, /etc/php.d/pdo_odbc.ini, /etc/php.d/pdo_sqlite.ini, /etc/php.d/phar.ini, /etc/php.d/posix.ini, /etc/php.d/pspell.ini, /etc/php.d/recode.ini, /etc/php.d/shmop.ini, /etc/php.d/simplexml.ini, /etc/php.d/soap.ini, /etc/php.d/sockets.ini, /etc/php.d/sqlite3.ini, /etc/php.d/sysvmsg.ini, /etc/php.d/sysvsem.ini, /etc/php.d/sysvshm.ini, /etc/php.d/tidy.ini, /etc/php.d/tokenizer.ini, /etc/php.d/xdebug.ini, /etc/php.d/xml.ini, /etc/php.d/xml_wddx.ini, /etc/php.d/xmlreader.ini, /etc/php.d/xmlrpc.ini, /etc/php.d/xmlwriter.ini, /etc/php.d/xsl.ini, /etc/php.d/z-memcached.ini, /etc/php.d/zip.ini</additional_php_ini>
           <configuration_file>/etc/php.ini</configuration_file>
           <configuration_options>
