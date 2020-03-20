@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="999da67e-018e-4f25-b41d-e178ea66ce80" name="web0" url="http://web1.hotline.ua:8080">
+        <fileTransfer host="web0.hotline.ua" port="22" rootFolder="/server/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
