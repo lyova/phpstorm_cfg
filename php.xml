@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_function_behavior="PREFER_IMPORT" />
   <component name="PhpCSFixer">
     <phpcsfixer_settings>
       <phpcs_fixer_by_interpreter interpreter_id="7bac236f-d50f-4be4-8ec1-56e26fae43c8" tool_path="/home/lobachev/php-cs-fixer-v2.phar" />
