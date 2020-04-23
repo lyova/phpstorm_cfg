@@ -6,7 +6,7 @@
       <sshConfig authType="PASSWORD" host="web3.hotline.ua" id="879173b7-02ad-4c61-8cbc-b64a921a006a" port="22" customName="web3" nameFormat="CUSTOM" username="wwwadm" />
       <sshConfig authType="PASSWORD" host="77.222.150.24" id="c3b947f1-4489-4686-9a96-1980b49e3304" port="22" customName="adm_0" nameFormat="CUSTOM" username="wwwadm" />
       <sshConfig authType="PASSWORD" host="web0.hotline.ua" id="8ddf1c57-ea9d-436c-9423-e4c5f1e12845" port="22" customName="web0" nameFormat="CUSTOM" username="wwwadm" />
-      <sshConfig authType="PASSWORD" host="web0.hotline.ua" id="8c96629c-017d-486b-873f-3bf8dcfe16bb" port="22" customName="web0" nameFormat="CUSTOM" username="wwwadm" />
+      <sshConfig authType="PASSWORD" host="web0.hotline.ua" id="eea13eb6-c3ad-436f-a3a5-8e69e8a8f2b8" port="22" customName="web0" nameFormat="CUSTOM" username="wwwadm" />
     </configs>
   </component>
 </application>
