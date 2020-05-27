@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="git pull origin (dev 1)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG">
+  <tool name="git pull origin (dev 1)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
     <exec>
       <option name="COMMAND" value="/usr/bin/sh" />
       <option name="PARAMETERS" value="update_branches.sh" />
