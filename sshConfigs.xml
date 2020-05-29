@@ -2,17 +2,13 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="192.168.100.4" id="fda201e3-653e-40f1-8009-f1d8166556c6" port="22" customName="hl_dev_webhhoks" nameFormat="CUSTOM" username="lobachev" />
-      <sshConfig authType="PASSWORD" host="web3.hotline.ua" id="50bb38f5-c308-41b5-8a0f-372e63ee127b" port="22" customName="web3" nameFormat="CUSTOM" username="wwwadm" />
-      <sshConfig authType="PASSWORD" host="web0.hotline.ua" id="7fdcf27c-7e07-43cc-9de1-488794b00379" port="22" customName="web0" nameFormat="CUSTOM" username="wwwadm" />
       <sshConfig authType="PASSWORD" host="web2n.hotline.ua" id="d18d8eef-149c-4633-bf00-d2041652d559" port="22" nameFormat="DESCRIPTIVE" username="wwwadm" />
-      <sshConfig authType="PASSWORD" host="web1.hotline.ua" id="77d4335f-f0c4-4878-9789-f85b8421cbae" port="22" customName="web1" nameFormat="CUSTOM" username="wwwadm" />
-      <sshConfig authType="PASSWORD" host="192.168.100.4" id="2c14d679-fc2b-4c78-b939-aa45bb8374de" port="22" customName="hl_dev" nameFormat="CUSTOM" username="lobachev" />
       <sshConfig authType="PASSWORD" host="web3.hotline.ua" id="99a22d2d-5d21-4106-be2e-47cb9549ca84" port="22" customName="web3" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="77.222.150.24" id="4ed68b47-ef4b-42d5-a50a-d42044c3f2e1" port="22" customName="adm_0" nameFormat="CUSTOM" username="wwwadm" />
-      <sshConfig authType="PASSWORD" host="web0.hotline.ua" id="a0d81cc5-9107-4e8b-aa01-e5d76ffeb2f1" port="22" customName="web0" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="web2n.hotline.ua" id="3bd95d0e-1cca-4079-9e29-9405861ea6a8" port="22" customName="web2" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="web2n.hotline.ua" id="cd139ab6-c92e-4a99-9185-7bcadeb42b68" port="22" customName="web2" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="web2n.hotline.ua" id="bce1dd5d-205a-4ea6-ad07-6d75a7c49807" port="22" customName="web2" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="web2n.hotline.ua" id="3bd95d0e-1cca-4079-9e29-9405861ea6a8" port="22" customName="web2" nameFormat="CUSTOM" username="wwwadm" />
+      <sshConfig authType="PASSWORD" host="web1.hotline.ua" id="ffe8a4d2-2dd8-4d52-92fd-8a8316c0cf9b" port="22" customName="web1" nameFormat="CUSTOM" username="wwwadm" />
+      <sshConfig authType="PASSWORD" host="web3.hotline.ua" id="a1036c44-548d-4a96-a675-13e9beaea917" port="22" customName="web3" nameFormat="CUSTOM" username="wwwadm" />
+      <sshConfig authType="PASSWORD" host="77.222.150.24" id="3183c352-e3ce-4ff7-afa7-5a6c613a38a6" port="22" customName="adm_0" nameFormat="CUSTOM" username="wwwadm" />
+      <sshConfig authType="PASSWORD" host="web0.hotline.ua" id="4fee6752-ff6e-42f6-8fbb-855e25504935" port="22" customName="web0" nameFormat="CUSTOM" username="wwwadm" />
     </configs>
   </component>
 </application>

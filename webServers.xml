@@ -2,51 +2,45 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="249c44de-ba97-49d2-89d0-92bd50745328" name="web1" url="http://web1.hotline.ua:8080">
-        <fileTransfer host="web1.hotline.ua" port="22" rootFolder="/server/htdocs" accessType="SFTP">
+        <fileTransfer rootFolder="/server/htdocs" accessType="SFTP" host="web1.hotline.ua" port="22" sshConfigId="ffe8a4d2-2dd8-4d52-92fd-8a8316c0cf9b" sshConfig="web1">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="ee389869-43e7-452c-9e5b-8baa8e1269ff" name="hl_dev" url="http://hotline.lobachev.dev/">
-        <fileTransfer host="192.168.100.4" port="22" accessType="SFTP" username="lobachev" password="dffedfcfdfcddffedfc5dfccdfdfdfccdfcfdfc9dfcbdfc6dfebdfdcdf9f">
+        <fileTransfer accessType="SFTP" sshConfigId="6ed2ff5e-0df2-431d-93b0-e606a4fb850f" sshConfig="hl_dev" username="lobachev" password="dffedfcfdfcddffedfc5dfccdfdfdfccdfcfdfc9dfcbdfc6dfebdfdcdf9f">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="479780b0-26e8-42d1-82cb-ab5bc678002a" name="web3" url="http://web1.hotline.ua:8080">
-        <fileTransfer host="web3.hotline.ua" port="22" accessType="SFTP">
+        <fileTransfer accessType="SFTP" host="web3.hotline.ua" port="22" sshConfigId="a1036c44-548d-4a96-a675-13e9beaea917" sshConfig="web3">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="15d7cfbb-de13-4579-8dd4-cd17b15975c5" name="adm_0" url="http://77.222.150.24">
-        <fileTransfer host="77.222.150.24" port="22" accessType="SFTP">
+        <fileTransfer accessType="SFTP" host="77.222.150.24" port="22" sshConfigId="3183c352-e3ce-4ff7-afa7-5a6c613a38a6" sshConfig="adm_0">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="999da67e-018e-4f25-b41d-e178ea66ce80" name="web0" url="http://web1.hotline.ua:8080">
-        <fileTransfer host="web0.hotline.ua" port="22" rootFolder="/server/htdocs" accessType="SFTP">
+        <fileTransfer rootFolder="/server/htdocs" accessType="SFTP" host="web0.hotline.ua" port="22" sshConfigId="4fee6752-ff6e-42f6-8fbb-855e25504935" sshConfig="web0">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="b286ed4f-7299-42e8-b373-01b467e416e8" name="web2" url="http://web2n.hotline.ua:8080">
-        <fileTransfer host="web2n.hotline.ua" port="22" rootFolder="/server/htdocs" accessType="SFTP">
+        <fileTransfer rootFolder="/server/htdocs" accessType="SFTP" host="web2n.hotline.ua" port="22" sshConfigId="3bd95d0e-1cca-4079-9e29-9405861ea6a8" sshConfig="web2">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
