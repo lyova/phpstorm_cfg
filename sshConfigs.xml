@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="192.168.100.4" id="fda201e3-653e-40f1-8009-f1d8166556c6" port="22" customName="hl_dev_webhhoks" nameFormat="CUSTOM" username="lobachev" />
+      <sshConfig authType="PASSWORD" host="192.168.100.4" id="fda201e3-653e-40f1-8009-f1d8166556c6" port="22" customName="hl_dev" nameFormat="CUSTOM" username="lobachev" />
       <sshConfig authType="PASSWORD" host="web2n.hotline.ua" id="d18d8eef-149c-4633-bf00-d2041652d559" port="22" nameFormat="DESCRIPTIVE" username="wwwadm" />
       <sshConfig authType="PASSWORD" host="web3.hotline.ua" id="99a22d2d-5d21-4106-be2e-47cb9549ca84" port="22" customName="web3" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="web2n.hotline.ua" id="3bd95d0e-1cca-4079-9e29-9405861ea6a8" port="22" customName="web2" nameFormat="CUSTOM" username="wwwadm" />
