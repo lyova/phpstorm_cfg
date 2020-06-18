@@ -2,24 +2,25 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
-      <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
-      <mapping pattern="gitconfig" type="PLAIN_TEXT" />
-      <mapping pattern="template" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
-      <mapping pattern="comment" type="PLAIN_TEXT" />
-      <mapping pattern="tst" type="PLAIN_TEXT" />
-      <mapping pattern="opened_open" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="list" type="SmartyConfig" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping pattern="template" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="gitconfig" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="htpasswd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="tst" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="opened_open" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="README" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping pattern="comment" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="HttpCacheInterface.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="fastcgi_params" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="list" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="default.conf" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
