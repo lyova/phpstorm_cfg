@@ -8,7 +8,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="ee389869-43e7-452c-9e5b-8baa8e1269ff" name="hl_dev" url="http://hotline.lobachev.dev/">
+      <webServer id="ee389869-43e7-452c-9e5b-8baa8e1269ff" name="hl_dev" url="">
         <fileTransfer accessType="SFTP" host="192.168.100.4" port="22" sshConfigId="fda201e3-653e-40f1-8009-f1d8166556c6" sshConfig="hl_dev" username="lobachev" password="dffedfcfdfcddffedfc5dfccdfdfdfccdfcfdfc9dfcbdfc6dfebdfdcdf9f">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
