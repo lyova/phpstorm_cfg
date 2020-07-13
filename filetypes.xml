@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
+      <mapping pattern="pv" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
