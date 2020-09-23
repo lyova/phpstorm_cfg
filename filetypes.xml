@@ -13,6 +13,7 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="list" type="SmartyConfig" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <mapping ext="tmpl" type="YAML" />
       <removed_mapping pattern="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="gitconfig" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="htpasswd" approved="true" type="PLAIN_TEXT" />
