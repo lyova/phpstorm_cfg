@@ -5,7 +5,6 @@
       <mapping pattern="pv" type="PLAIN_TEXT" />
       <mapping pattern="ttt" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
