@@ -2,16 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
-      <mapping pattern="pv" type="PLAIN_TEXT" />
-      <mapping pattern="ttt" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
+      <mapping pattern="pv" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping pattern="ttt" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="list" type="SmartyConfig" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="tmpl" type="YAML" />
