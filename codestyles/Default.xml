@@ -53,7 +53,7 @@
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="120" />
+    <option name="RIGHT_MARGIN" value="180" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="LAMBDA_BRACE_STYLE" value="2" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
