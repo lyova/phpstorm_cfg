@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="479780b0-26e8-42d1-82cb-ab5bc678002a" name="web3" url="http://web1.hotline.ua:8080">
-        <fileTransfer accessType="SFTP" host="web4.hotline.ua" port="22" sshConfigId="99a22d2d-5d21-4106-be2e-47cb9549ca84" sshConfig="web4">
+        <fileTransfer accessType="SFTP" host="web3.hotline.ua" port="22" sshConfigId="a1036c44-548d-4a96-a675-13e9beaea917" sshConfig="web3">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
