@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_redis" type="PLAIN_TEXT" />
       <mapping pattern="pv" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
