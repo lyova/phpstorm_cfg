@@ -12,6 +12,7 @@
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="SmartyConfig" />
       <mapping ext="tmpl" type="YAML" />
