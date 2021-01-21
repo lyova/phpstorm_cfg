@@ -50,6 +50,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="cfdd2dbc-ae80-468f-aa4f-f4b608175922" name="adm_1" url="http://77.222.150.24">
+        <fileTransfer accessType="SFTP" host="adm1.hotline.ua" port="22" sshConfigId="28272fcc-f40a-4624-9ccc-f97f75180d95" sshConfig="adm_1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

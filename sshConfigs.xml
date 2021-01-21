@@ -23,6 +23,9 @@
       <sshConfig authType="PASSWORD" host="web0.hotline.ua" id="4fee6752-ff6e-42f6-8fbb-855e25504935" port="22" customName="web0" nameFormat="CUSTOM" username="wwwadm">
         <option name="customName" value="web0" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="adm1.hotline.ua" id="28272fcc-f40a-4624-9ccc-f97f75180d95" port="22" customName="adm_1" nameFormat="CUSTOM" username="wwwadm">
+        <option name="customName" value="adm_1" />
+      </sshConfig>
     </configs>
   </component>
 </application>
