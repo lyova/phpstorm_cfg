@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="15d7cfbb-de13-4579-8dd4-cd17b15975c5" name="adm_0" url="http://77.222.150.24">
-        <fileTransfer accessType="SFTP" host="adm1.hotline.ua" port="22" sshConfigId="3183c352-e3ce-4ff7-afa7-5a6c613a38a6" sshConfig="adm_1">
+        <fileTransfer accessType="SFTP" host="77.222.150.24" port="22" sshConfigId="3183c352-e3ce-4ff7-afa7-5a6c613a38a6" sshConfig="adm_0">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -50,8 +50,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="c9cddaa5-7db6-4dc3-94fe-54bcb3b56637" name="adm_1" url="">
-        <fileTransfer rootFolder="/server/htdocs/" accessType="SFTP" host="adm1.hotline.ua" port="22" sshConfigId="3183c352-e3ce-4ff7-afa7-5a6c613a38a6" sshConfig="adm_1">
+      <webServer id="cfdd2dbc-ae80-468f-aa4f-f4b608175922" name="adm_1" url="http://77.222.150.24">
+        <fileTransfer accessType="SFTP" host="adm1.hotline.ua" port="22" sshConfigId="28272fcc-f40a-4624-9ccc-f97f75180d95" sshConfig="adm_1">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
