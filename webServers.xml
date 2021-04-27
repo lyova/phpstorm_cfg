@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="479780b0-26e8-42d1-82cb-ab5bc678002a" name="web3" url="http://web1.hotline.ua:8080">
-        <fileTransfer accessType="SFTP" host="web3.hotline.ua" port="22" sshConfigId="a1036c44-548d-4a96-a675-13e9beaea917" sshConfig="web3">
+        <fileTransfer accessType="SFTP" host="web0.hotline.ua" port="22" sshConfigId="4fee6752-ff6e-42f6-8fbb-855e25504935" sshConfig="web0">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -37,7 +37,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b286ed4f-7299-42e8-b373-01b467e416e8" name="web2" url="http://web2n.hotline.ua:8080">
-        <fileTransfer rootFolder="/server/htdocs" accessType="SFTP" host="web2n.hotline.ua" port="22" sshConfigId="3bd95d0e-1cca-4079-9e29-9405861ea6a8" sshConfig="web2">
+        <fileTransfer rootFolder="/server/htdocs" accessType="SFTP" sshConfigId="3bd95d0e-1cca-4079-9e29-9405861ea6a8" sshConfig="web2">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
