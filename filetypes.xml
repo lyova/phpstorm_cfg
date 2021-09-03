@@ -20,7 +20,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="list" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern="HttpCacheInterface.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="README" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="comment" approved="true" type="PLAIN_TEXT" />
