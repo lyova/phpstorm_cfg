@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_php" type="PLAIN_TEXT" />
@@ -16,12 +15,12 @@
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="SmartyConfig" />
-      <removed_mapping ext="tsv" type="TSV" />
       <mapping ext="tmpl" type="YAML" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="list" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping pattern="HttpCacheInterface.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="README" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="comment" approved="true" type="PLAIN_TEXT" />
