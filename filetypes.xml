@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="inotify-proxy.cpp" type="AUTO_DETECTED" />
+      <mapping pattern="phpunit" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
       <mapping pattern="pv" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
