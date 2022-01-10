@@ -64,6 +64,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="0ba2076d-145b-43e1-aad7-cbff4d0bec99" name="londoff_old" url="http://185.181.165.6">
+        <fileTransfer host="185.181.165.6" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
