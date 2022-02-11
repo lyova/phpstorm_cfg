@@ -10,7 +10,7 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
-  <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
+  <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true" SUGGEST_ALL_OBJECTS="true">
     <option name="autoAliasTable" value="true" />
     <option name="customMappings">
       <map>
@@ -20,6 +20,7 @@
         <entry key="yp" value="y" />
       </map>
     </option>
+    <option name="suggestAllObjects" value="true" />
     <CUSTOM_ALIAS_MAPPINGS>
       <entry table-name="ITCWeb.people" value="p" />
       <entry table-name="new_tabl" value="t" />

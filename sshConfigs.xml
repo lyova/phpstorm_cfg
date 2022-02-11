@@ -23,6 +23,8 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="adm1.hotline.ua" id="28272fcc-f40a-4624-9ccc-f97f75180d95" port="22" customName="adm_1" nameFormat="CUSTOM" username="wwwadm">
         <option name="customName" value="adm_1" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="176.111.49.48" id="cbede1c5-426f-4c8c-8286-ffa6f9762ddd" port="22" nameFormat="DESCRIPTIVE" username="byochwhn_lyova" />
+      <sshConfig authType="PASSWORD" host="185.253.218.233" id="5016750d-bce2-437b-8728-0f9276d47e92" port="22" nameFormat="DESCRIPTIVE" username="xjimpxjt" />
     </configs>
   </component>
 </application>
