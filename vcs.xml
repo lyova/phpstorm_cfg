@@ -18,6 +18,10 @@
           <option name="url" value="git@gitlab.local.hotline.ua:hotline/product_service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gl.local.hotline.ua" />
+          <option name="userName" value="lobachev@hotline.ua" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\iCloudDrive\PhpStormProjects" />
