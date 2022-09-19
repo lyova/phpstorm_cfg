@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="asasd" type="AUTO_DETECTED" />
       <mapping pattern="changed_files" type="AUTO_DETECTED" />
+      <mapping pattern="phpunit" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile_mariadb" type="Dockerfile" />
       <mapping pattern="pv" type="PLAIN_TEXT" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
