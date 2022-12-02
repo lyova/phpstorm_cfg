@@ -3,6 +3,7 @@
     <option name="sessionFiles">
       <list>
         <option value="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa896.3961/GeeTestv4_TikTok_captcha_solver_TikTok_captcha_select.js" />
+        <option value="file://$USER_HOME$/AppData/Roaming/BrowserAutomationStudio/apps/25.3.8/custom/GeeTestv4_TikTok_captcha_solver/engine.js" />
       </list>
     </option>
     <option name="supportedFilePatterns">
@@ -21,5 +22,6 @@
     <option name="frameInfo">
       <frame x="1020" y="200" width="1400" height="1000" />
     </option>
+    <option name="preferredMode" value="LightEdit" />
   </component>
 </application>
