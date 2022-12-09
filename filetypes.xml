@@ -21,6 +21,7 @@
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="SmartyConfig" />
+      <mapping ext="dist" type="YAML" />
       <mapping ext="tmpl" type="YAML" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
