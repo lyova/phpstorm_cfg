@@ -28,4 +28,7 @@
       <entry table-name="yp" value="y" />
     </CUSTOM_ALIAS_MAPPINGS>
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="false" />
+  </component>
 </application>
